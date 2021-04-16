@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying Physics and Astrophysics at the University of Florence.
 - ✏️ I'm writing articles about tech (in italian) at  [windowsblogitalia.com](https://windowsblogitalia.com) 
 - 🌏 Civic hacking at [@emergenzeHack](https://github.com/emergenzeHack)
-- 📫 How to reach me: info@pinzauti.tech
+- 📫 How to reach me: francescopinzauti@gmail.com
 
 <div align="center">
 
