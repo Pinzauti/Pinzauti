@@ -16,7 +16,7 @@
 <br>
 </p>
 
-|![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Pinzauti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinzauti&layout=compact&theme=tokyonight&langs_count=10)|
+|![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Pinzauti&show_icons=true&count_private=true&hide=contribs,stars)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinzauti&layout=compact&langs_count=10&hide=php,scss,html,css)|
 |-|-|
   
 </div>
