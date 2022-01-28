@@ -21,10 +21,7 @@ I am a MSc student with a background in physics.
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/Pinzauti/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Pinzauti/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
