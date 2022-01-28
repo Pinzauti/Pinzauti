@@ -19,7 +19,7 @@ I am a MSc student with a background in physics.
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 
 <br>
-
+<br>
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
@@ -28,6 +28,4 @@ I am a MSc student with a background in physics.
 ![Most Used Languages](https://raw.githubusercontent.com/Pinzauti/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
-<br>
 
