@@ -1,6 +1,6 @@
 ## Hey there👋
 <a href='https://www.linkedin.com/in/pinzauti/'><img alt="linkedin" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/linkedin.png" height='32px'/></a>
-<a href='https://leetcode.com/Pinzauti/'><img alt="leetcode" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/leetcode.png" height='32px'/></a>
+<a href='https://leetcode.com/Pinzauti/'><img alt="leetcode" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/Leetcode.png" height='32px'/></a>
 <a href='https://stackoverflow.com/users/11508156/francesco-pinzauti'><img alt="stackoverflow" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/stack-overflow.png" height='32px'/></a>
 
 
