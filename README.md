@@ -1,7 +1,7 @@
 ## Hey there👋
-<a href='https://www.linkedin.com/in/pinzauti/'><img alt="linkedin" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height='22px'/></a>
-<a href='https://stackoverflow.com/users/11508156/francesco-pinzauti'><img alt="stackoverflow" src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667" height='22px'/></a>
-<a href='https://www.kaggle.com/francescopinzauti/'><img alt="kaggle" src="https://camo.githubusercontent.com/96313f84e4c257e753560f701e77c29697410d36bbd327294980f90451fcb1bc/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6167676c652e737667" height='22px'/></a>
+<a href='https://www.linkedin.com/in/pinzauti/'><img alt="linkedin" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/linkedin.png" height='32px'/></a>
+<a href='https://leetcode.com/Pinzauti/'><img alt="leetcode" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/leetcode.png" height='32px'/></a>
+<a href='https://stackoverflow.com/users/11508156/francesco-pinzauti'><img alt="stackoverflow" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/stack-overflow.png" height='32px'/></a>
 
 
 I am a MSc student with a background in physics.
