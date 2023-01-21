@@ -4,7 +4,7 @@
 <a href='https://stackoverflow.com/users/11508156/francesco-pinzauti'><img alt="stackoverflow" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/stack-overflow.png" height='32px'/></a>
 
 
-I am a MSc student with a background in physics.
+I am an MSc student with a background in physics.
 <br/>
 <br/>
 
