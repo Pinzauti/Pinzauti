@@ -4,7 +4,11 @@
 <a href='https://stackoverflow.com/users/11508156/francesco-pinzauti'><img alt="stackoverflow" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/stack-overflow.png" height='32px'/></a>
 
 
-I am an MSc student with a background in physics.
+Hello there! I am a computer science student on the brink of completing my MSc degree. 
+
+I completed my undergraduate studies in physics and I am currently doing an internship as a software engineer at Amazon. 
+
+After completing my internship, I will be heading to CERN to work on my master's thesis.
 <br/>
 <br/>
 
