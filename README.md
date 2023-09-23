@@ -8,7 +8,7 @@ I am a computer science student on the brink of finishing my MSc degree.
 
 I completed my undergraduate studies in physics and I did an internship as a software engineer at Amazon. 
 
-Currently I'm at CERN to work on my master's thesis.
+Currently I'm at CERN working on my master's thesis.
 <br/>
 <br/>
 
