@@ -4,11 +4,9 @@
 <a href='https://stackoverflow.com/users/11508156/francesco-pinzauti'><img alt="stackoverflow" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/stack-overflow.png" height='32px'/></a>
 
 
-I am a computer science student on the brink of finishing my MSc degree.
+Hi!
 
-I completed my undergraduate studies in physics and I did an internship as a software engineer at Amazon. 
-
-Currently I'm at CERN working on my master's thesis.
+I'm Francesco, I have a BSc in physics and an MSc in Artificial Intelligence, I did an internship as a software engineer at Amazon and currently I'm at CERN as a software engineer.
 <br/>
 <br/>
 
