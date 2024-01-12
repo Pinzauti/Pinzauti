@@ -6,7 +6,7 @@
 
 Hi!
 
-I'm Francesco, I have a BSc in physics and an MSc in Artificial Intelligence, I did an internship as a software engineer at Amazon and currently I'm at CERN as a software engineer.
+I'm Francesco, I have a BSc in Physics and an MSc in Artificial Intelligence, I did an internship as a software engineer at Amazon and I'm currently working as a software engineer at CERN.
 <br/>
 <br/>
 
