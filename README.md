@@ -3,12 +3,6 @@
 <a href='https://leetcode.com/Pinzauti/'><img alt="leetcode" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/Leetcode.png" height='32px'/></a>
 <a href='https://stackoverflow.com/users/11508156/francesco-pinzauti'><img alt="stackoverflow" src="https://raw.githubusercontent.com/Pinzauti/Pinzauti/master/img/stack-overflow.png" height='32px'/></a>
 
-
-I am a computer science student on the brink of finishing my MSc degree.
-
-I completed my undergraduate studies in physics and I did an internship as a software engineer at Amazon.
-
-Currently I'm at CERN working on my master's thesis. 
 <br/>
 <br/>
 
